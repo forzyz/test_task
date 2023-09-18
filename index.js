@@ -11,7 +11,7 @@ div.style.padding = '20px';
 div.style.textAlign = 'center';
 div.style.boxShadow = '1px 1px 5px 5px #f1f1f1';
 div.style.borderRadius = '10px';
-div.style.margin = '26px 10px 58px';
+div.style.margin = '10px';
 div.style.width = 'calc(33.33% - 20px)';
 div.style.display = 'inline-block';
 
